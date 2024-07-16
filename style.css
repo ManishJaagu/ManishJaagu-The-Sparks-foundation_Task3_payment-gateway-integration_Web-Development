@@ -331,6 +331,6 @@ footer {
 
     nav a {
         font-size: 12px;
-        padding: 6px; /* Further reduced font size for small screens */
+        padding: 6px; 
     }
 }
